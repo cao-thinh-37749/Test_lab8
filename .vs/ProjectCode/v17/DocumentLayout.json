@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA9A761-0910-4D6C-8A9D-63E71B68E0D1}|ProjectCode\\ProjectCode.csproj|e:\\fpt_poly\\ky_6\\block_1\\bai_tap\\ktnc\\caoquocthinh_ps37749_lab8\\projectcode\\projectcode\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA9A761-0910-4D6C-8A9D-63E71B68E0D1}|ProjectCode\\ProjectCode.csproj|solutionrelative:projectcode\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984343CF-93EB-4F5A-97DC-C2A70399F761}|ProjectTests\\ProjectTests.csproj|e:\\fpt_poly\\ky_6\\block_1\\bai_tap\\ktnc\\caoquocthinh_ps37749_lab8\\projectcode\\projecttests\\arrayhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984343CF-93EB-4F5A-97DC-C2A70399F761}|ProjectTests\\ProjectTests.csproj|solutionrelative:projecttests\\arrayhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA9A761-0910-4D6C-8A9D-63E71B68E0D1}|ProjectCode\\ProjectCode.csproj|e:\\fpt_poly\\ky_6\\block_1\\bai_tap\\ktnc\\caoquocthinh_ps37749_lab8\\projectcode\\projectcode\\projectcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFA9A761-0910-4D6C-8A9D-63E71B68E0D1}|ProjectCode\\ProjectCode.csproj|solutionrelative:projectcode\\projectcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayHelperTests.cs",
+              "DocumentMoniker": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\ProjectTests\\ArrayHelperTests.cs",
+              "RelativeDocumentMoniker": "ProjectTests\\ArrayHelperTests.cs",
+              "ToolTip": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\ProjectTests\\ArrayHelperTests.cs",
+              "RelativeToolTip": "ProjectTests\\ArrayHelperTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:21:16.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\ProjectCode\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "ProjectCode\\ArrayHelper.cs",
+              "ToolTip": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\ProjectCode\\ArrayHelper.cs",
+              "RelativeToolTip": "ProjectCode\\ArrayHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:20:46.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectCode",
+              "DocumentMoniker": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\ProjectCode\\ProjectCode.csproj",
+              "RelativeDocumentMoniker": "ProjectCode\\ProjectCode.csproj",
+              "ToolTip": "E:\\Fpt_poly\\ky_6\\Block_1\\Bai_Tap\\KTNC\\CaoQuocThinh_ps37749_lab8\\ProjectCode\\ProjectCode\\ProjectCode.csproj",
+              "RelativeToolTip": "ProjectCode\\ProjectCode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T15:20:41.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
